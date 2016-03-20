@@ -171,7 +171,7 @@ These tools manage placement of new containers across abstracted underlying reso
 These tools allow you to define and manage a cluster of dependent containers as a single composable entity
 
 * **Docker open source**
-  * [Docker Compose](https://github.com/docker/docker/issues/9694): text files used to define and configure a distributed application across a cluster of Docker containers
+  * [Docker Compose](https://github.com/docker/compose): text files used to define and configure a distributed application across a cluster of Docker containers
 
 * **CoreOS open source**
   * [fleet unit file](https://github.com/coreos/fleet/blob/master/Documentation/unit-files-and-scheduling.md): fleet uses a specialized version of systemd unit files to define a distributed application across containers
